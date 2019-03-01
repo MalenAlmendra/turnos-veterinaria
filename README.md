@@ -1,5 +1,5 @@
 
-## Administrador de pasientes de Veterinaria
+## Administrador de pacientes de veterinaria
 
 Esta SPA fue creada con fines de aprendizaje.
 
